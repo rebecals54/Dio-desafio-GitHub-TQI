@@ -1,0 +1,20 @@
+git init
+git add
+git commit
+
+Criando repositório:
+1-Pasta padrão: workspace
+2- "ls" para listar os arquivos que estão presentes no desktop;
+3- cd workspace/
+4- mkdir pasta a ser criada
+
+Desafio Botcamp TQI
+
+novo repositório> fazer edições> caso queira editar no computador
+é preciso clonar>abrir pasta> abrir Git bash- inserir 
+git bash e link do repositório do gihub.
+
+obs:
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+

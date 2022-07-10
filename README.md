@@ -1,1 +1,2 @@
-# Dio-desafio-GitHub-TQI
+# Dio-desafio-TQI
+## Repositório do Desafio do projeto sobre Git/GitHub da DIO
